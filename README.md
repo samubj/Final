@@ -12,3 +12,4 @@ In this video, we will create a cryptocurrency app. We're going to use React and
 
 By the end of this video, you will become the master of working with APIs.
 "# Final_Project" 
+"# Final" 
